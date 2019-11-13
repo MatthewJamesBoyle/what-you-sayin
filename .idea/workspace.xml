@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a00416b2-0e2b-4f86-b8da-127ac6a9399c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/whattheysayingbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/reddit/reddit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/reddit/reddit_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="317" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1T6pgUOG6PO9payY9GEB6dQAkI9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/internal/reddit" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/internal/reddit" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.go test whattheysayingbot">
+    <configuration name="go build github.com/matthewjamesboyle/whattheysayingbot/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="whattheysayingbot" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-phrases=curve,go -subreddits=/r/golang,/r/facebook,/r/fintech" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/main.go" />
+      <package value="github.com/matthewjamesboyle/whattheysayingbot/cmd" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewConfig in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="whattheysayingbot" />
+      <working_directory value="$PROJECT_DIR$/internal/reddit" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNewConfig$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewSafeResponse in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="whattheysayingbot" />
+      <working_directory value="$PROJECT_DIR$/internal/reddit" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNewSafeResponse$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewSafeResponse/returns_a_safe_response in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="whattheysayingbot" />
+      <working_directory value="$PROJECT_DIR$/internal/reddit" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNewSafeResponse$/^returns_a_safe_response$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test whattheysayingbot" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="whattheysayingbot" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/matthewjamesboyle/whattheysayingbot" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build github.com/matthewjamesboyle/whattheysayingbot/cmd" />
+      <item itemvalue="Go Test.TestNewSafeResponse in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+      <item itemvalue="Go Test.TestNewSafeResponse/returns_a_safe_response in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+      <item itemvalue="Go Test.TestNewConfig in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+      <item itemvalue="Go Test.go test whattheysayingbot" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test whattheysayingbot" />
+        <item itemvalue="Go Test.TestNewConfig in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+        <item itemvalue="Go Test.TestNewSafeResponse/returns_a_safe_response in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+        <item itemvalue="Go Test.TestNewSafeResponse in github.com/matthewjamesboyle/whattheysayingbot/internal/reddit" />
+        <item itemvalue="Go Build.go build github.com/matthewjamesboyle/whattheysayingbot/cmd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/internal/reddit/reddit.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/whattheysayingbot$go_test_whattheysayingbot.out" NAME="go test whattheysayingbot Coverage Results" MODIFIED="1573398019370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
